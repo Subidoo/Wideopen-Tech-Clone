@@ -1,0 +1,12 @@
+html body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+.topContainer {
+	background-image: url('/mainPic.jpg');
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+}
