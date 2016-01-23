@@ -28,6 +28,9 @@ html body {
 	padding: 10px;
 	margin: 10px;
 }
+.flex1:hover {
+	color: #73AD21;
+}
 
 .topContact {
     width: 8%;
